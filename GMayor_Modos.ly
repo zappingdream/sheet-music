@@ -45,7 +45,8 @@
   \header {
      piece = "Mixolidio"
   }
-  \relative c'' {
+  \relative c' {
+  d e fis g a b c d
     
   }
 }
@@ -56,7 +57,7 @@
      piece = "Eólico"
   }
   \relative c' {
-    b cis d e fis g a b
+  e fis g a b c d e
   }
 }
 
@@ -66,7 +67,7 @@
      piece = "Locrio"
   }
   \relative c' {
-    cis d e fis g a b cis
+  fis g a b c d e fis
   }
 }
 
