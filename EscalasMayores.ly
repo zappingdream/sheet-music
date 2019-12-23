@@ -64,7 +64,7 @@
 %  F Mayor
 \score {
   \header {
-     piece = "F bemol Mayor"
+     piece = "F Mayor"
   }
   \relative c' {
     f g a bes c d e f
@@ -88,6 +88,47 @@
   }
   \relative c' {
     ees f g aes bes c d ees
+  }
+}
+
+%  La bemol Mayor
+\score {
+  \header {
+     piece = "A bemol Mayor"
+  }
+  \relative c'' {
+    aes bes c des ees f g aes
+  }
+}
+
+%  Re bemol Mayor
+\score {
+  \header {
+     piece = "D bemol Mayor"
+  }
+  \relative c' {
+   des ees f ges aes bes c des
+  }
+}
+
+% Fa sostenido / Sol bemol Mayor
+
+\score {
+  \header {
+     piece = "G bemol Mayor"
+  }
+  \relative c'' {
+   ges aes bes ces des ees fes ges
+  }
+}
+
+%  Si Mayor
+\score {
+  \header {
+     piece = "F sostenido Mayor"
+  }
+  \relative c' {
+    fis gis ais b cis dis eis fis 
   }
 }
 
