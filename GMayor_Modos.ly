@@ -6,8 +6,8 @@
   \header {
      piece = "Jonico"
   }
-  \relative c' {
-    c4 d e fis g a b c
+  \relative c'' {
+    g a b c d e fis g
   }
 }
 %
@@ -15,8 +15,8 @@
   \header {
      piece = "Dorico"
   }
-  \relative c' {
-    d e fis g a b c d
+  \relative c'' {
+    a b c d e fis g a
   }
 }
 
@@ -26,7 +26,7 @@
      piece = "Frigio"
   }
   \relative c' {
-  e fis g a b c d e  
+  b c d e fis g a b
     }
 }
 
@@ -35,8 +35,8 @@
   \header {
      piece = "Lidio"
   }
-  \relative c' {
-  fis g a b c d e fis
+  \relative c'{
+  c d e fis g a b c
   }
 }
 
@@ -46,7 +46,7 @@
      piece = "Mixolidio"
   }
   \relative c'' {
-    g a b c d e fis g
+    
   }
 }
 
@@ -55,8 +55,8 @@
   \header {
      piece = "Eólico"
   }
-  \relative c'' {
-    a b c d e fis g a
+  \relative c' {
+    b cis d e fis g a b
   }
 }
 
@@ -66,7 +66,7 @@
      piece = "Locrio"
   }
   \relative c' {
-    b c d e fis g a
+    cis d e fis g a b cis
   }
 }
 
