@@ -25,7 +25,7 @@
   \header {
      piece = "Frigio"
   }
-  \relative c' {
+  \relative c'' {
   g aes bes c d ees f g
     }
 }
@@ -56,7 +56,7 @@
   \header {
      piece = "Eólico"
   }
-  \relative c'' {
+  \relative c' {
   c d ees f g aes bes c
   }
 }
@@ -66,7 +66,7 @@
   \header {
      piece = "Locrio"
   }
-  \relative c'' {
+  \relative c'{
   d ees f g aes bes c d 
   }
 }
