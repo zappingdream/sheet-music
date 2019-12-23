@@ -15,7 +15,7 @@
   \header {
      piece = "Dórico"
   }
-  \relative c' {
+  \relative c'' {
   g a bes c d e f g
   }
 }
