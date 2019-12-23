@@ -1,5 +1,5 @@
 \header {
-  title = "Modos de la Escalas de Mi Mayor"
+  title = "Modos de la Escalas de Si Mayor"
 }
 % Do Mayor Jonico
 \score {
@@ -7,7 +7,7 @@
      piece = "Jónico"
   }
   \relative c' {
-  e fis gis a b cis dis e
+  b cis dis e fis gis ais b
   }
 }
 %
@@ -16,7 +16,7 @@
      piece = "Dórico"
   }
   \relative c' {
-  fis gis a b cis dis e fis
+  cis dis e fis gis ais b cis
   }
 }
 
@@ -25,8 +25,8 @@
   \header {
      piece = "Frigio"
   }
-  \relative c'' {
-  gis a b cis dis e fis gis
+  \relative c' {
+  dis e fis gis ais b cis  dis
     }
 }
 
@@ -36,7 +36,7 @@
      piece = "Lidio"
   }
   \relative c'{
-  a b cis dis e fis gis a
+  e fis gis ais b cis dis e
   }
 }
 
@@ -46,7 +46,7 @@
      piece = "Mixolidio"
   }
   \relative c' {
-  b cis dis e fis gis a b
+  fis gis ais b cis dis e fis
     
   }
 }
@@ -57,7 +57,7 @@
      piece = "Eólico"
   }
   \relative c' {
-  cis dis e fis gis a b cis
+  gis ais b cis dis e fis gis
   }
 }
 
@@ -67,7 +67,7 @@
      piece = "Locrio"
   }
   \relative c' {
-  dis e fis gis a b cis dis  
+  ais b cis dis e fis gis ais 
   }
 }
 
