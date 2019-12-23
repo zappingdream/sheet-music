@@ -4,7 +4,7 @@
 % Do Mayor Jonico
 \score {
   \header {
-     piece = "Jonico"
+     piece = "Jónico"
   }
   \relative c'' {
     g a b c d e fis g
@@ -13,7 +13,7 @@
 %
 \score {
   \header {
-     piece = "Dorico"
+     piece = "Dórico"
   }
   \relative c'' {
     a b c d e fis g a
