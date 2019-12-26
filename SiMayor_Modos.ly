@@ -4,7 +4,7 @@
 % Do Mayor Jonico
 \score {
   \header {
-     piece = "Jónico"
+     piece = "B Jónico"
   }
   \relative c' {
   b cis dis e fis gis ais b
@@ -13,7 +13,7 @@
 %
 \score {
   \header {
-     piece = "Dórico"
+     piece = "C# Dórico"
   }
   \relative c' {
   cis dis e fis gis ais b cis
@@ -23,7 +23,7 @@
 % 
 \score {
   \header {
-     piece = "Frigio"
+     piece = "D# Frigio"
   }
   \relative c' {
   dis e fis gis ais b cis  dis
@@ -33,7 +33,7 @@
 %
 \score {
   \header {
-     piece = "Lidio"
+     piece = "E Lidio"
   }
   \relative c'{
   e fis gis ais b cis dis e
@@ -43,7 +43,7 @@
 % 
 \score {
   \header {
-     piece = "Mixolidio"
+     piece = "F# Mixolidio"
   }
   \relative c' {
   fis gis ais b cis dis e fis
@@ -54,7 +54,7 @@
 %
 \score {
   \header {
-     piece = "Eólico"
+     piece = "G# Eólico"
   }
   \relative c' {
   gis ais b cis dis e fis gis
@@ -64,7 +64,7 @@
 %
 \score {
   \header {
-     piece = "Locrio"
+     piece = "A# Locrio"
   }
   \relative c' {
   ais b cis dis e fis gis ais 
