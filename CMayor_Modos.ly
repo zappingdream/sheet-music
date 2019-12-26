@@ -1,72 +1,72 @@
 \header {
-  title = "Modos de la Escalas de Sol Mayor"
+  title = "Modos de la Escalas de C Mayor"
 }
 % Do Mayor Jonico
 \score {
   \header {
-     piece = "Jónico"
+     piece = "C Jónico"
   }
   \relative c' {
-    c4 d e fis g a b c
+    c4 d e f g a b c
   }
 }
 %
 \score {
   \header {
-     piece = "Dórico"
+     piece = "D Dórico"
   }
   \relative c' {
-    d e fis g a b c d
+    d e f g a b c d
   }
 }
 
 % 
 \score {
   \header {
-     piece = "Frigio"
+     piece = "E Frigio"
   }
   \relative c' {
-  e fis g a b c d e  
+  e f g a b c d e  
     }
 }
 
 %
 \score {
   \header {
-     piece = "Lidio"
+     piece = "F Lidio"
   }
   \relative c' {
-  fis g a b c d e fis
+  f g a b c d e f
   }
 }
 
 % 
 \score {
   \header {
-     piece = "Mixolidio"
+     piece = "G Mixolidio"
   }
   \relative c'' {
-    g a b c d e fis g
+    g a b c d e f g
   }
 }
 
 %
 \score {
   \header {
-     piece = "Eólico"
+     piece = "A Eólico"
   }
   \relative c'' {
-    a b c d e fis g a
+    a b c d e f g a
   }
 }
 
 %
 \score {
   \header {
-     piece = "Locrio"
+     piece = "B Locrio"
   }
   \relative c' {
-    b c d e fis g a
+    b c d e f g a
   }
 }
 
