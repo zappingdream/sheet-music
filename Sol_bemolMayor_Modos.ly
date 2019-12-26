@@ -4,7 +4,7 @@
 % 
 \score {
   \header {
-     piece = "Jónico"
+     piece = "Gb Jónico"
   }
   \relative c'' {
   ges aes bes ces des ees f ges
@@ -13,7 +13,7 @@
 %
 \score {
   \header {
-     piece = "Dórico"
+     piece = "Ab Dórico"
   }
   \relative c'' {
   aes bes ces des ees f ges aes
@@ -23,7 +23,7 @@
 % 
 \score {
   \header {
-     piece = "Frigio"
+     piece = "Bb Frigio"
   }
   \relative c' {
   bes ces des ees f ges aes bes
@@ -33,7 +33,7 @@
 %
 \score {
   \header {
-     piece = "Lidio"
+     piece = "Cb Lidio"
   }
   \relative c'{
   ces des ees f ges aes bes ces
@@ -43,7 +43,7 @@
 % 
 \score {
   \header {
-     piece = "Mixolidio"
+     piece = "Db Mixolidio"
   }
   \relative c' {
   des ees f ges aes bes ces des
@@ -54,7 +54,7 @@
 %
 \score {
   \header {
-     piece = "Eólico"
+     piece = "Eb Eólico"
   }
   \relative c' {
   ees f ges aes bes ces des ees
@@ -64,7 +64,7 @@
 %
 \score {
   \header {
-     piece = "Locrio"
+     piece = "F Locrio"
   }
   \relative c' {
   f ges aes bes ces des ees
